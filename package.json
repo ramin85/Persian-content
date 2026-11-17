@@ -1,0 +1,9 @@
+{
+  "name": "namakade-nuvio-addon",
+  "version": "1.0.0",
+  "description": "Stremio-protocol addon (Nuvio compatible) for Namakade movies and series",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
